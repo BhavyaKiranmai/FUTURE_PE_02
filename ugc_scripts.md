@@ -1,0 +1,119 @@
+# UGC Ad Scripts
+
+## Script 1: Acne Solution Angle
+
+### Hook
+
+I struggled with acne for years.
+
+### Problem
+
+Every face wash I tried either dried my skin out or didn't work at all.
+
+### Solution
+
+Then I started using GlowSkin Face Wash.
+
+### Benefits
+
+It cleans my skin without making it feel dry, and my breakouts became less noticeable over time.
+
+### CTA
+
+Try GlowSkin Face Wash and start your skincare journey today.
+
+---
+
+## Script 2: Morning Routine Angle
+
+### Hook
+
+This is the first thing I do every morning.
+
+### Problem
+
+My skin always felt oily and uncomfortable when I woke up.
+
+### Solution
+
+I added GlowSkin Face Wash to my daily routine.
+
+### Benefits
+
+Now my skin feels fresh, clean, and ready for the day.
+
+### CTA
+
+Upgrade your morning routine with GlowSkin Face Wash.
+
+---
+
+## Script 3: Confidence Angle
+
+### Hook
+
+I finally feel confident without makeup.
+
+### Problem
+
+Acne and oily skin affected my confidence.
+
+### Solution
+
+I started using GlowSkin Face Wash consistently.
+
+### Benefits
+
+My skin looks healthier and feels smoother.
+
+### CTA
+
+Get the confidence you deserve with GlowSkin Face Wash.
+
+---
+
+## Script 4: Affordable Skincare Angle
+
+### Hook
+
+You don't need expensive skincare products.
+
+### Problem
+
+I was spending too much money on products that didn't help.
+
+### Solution
+
+Then I found GlowSkin Face Wash.
+
+### Benefits
+
+It's affordable, easy to use, and works well in my routine.
+
+### CTA
+
+Try GlowSkin Face Wash today.
+
+---
+
+## Script 5: Transformation Angle
+
+### Hook
+
+Look at the difference after 30 days.
+
+### Problem
+
+My skin looked dull and tired.
+
+### Solution
+
+I committed to using GlowSkin Face Wash every day.
+
+### Benefits
+
+My skin feels cleaner, brighter, and healthier.
+
+### CTA
+
+Start your transformation with GlowSkin Face Wash.
