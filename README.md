@@ -91,6 +91,35 @@ To create AI-generated User Generated Content (UGC) advertisements for social me
 * CTA.png
 
 ---
+## Prompt for video 
+Create a beautiful 15-second premium skincare advertisement for a product called "GlowSkin Face Wash".
+
+Show a realistic blue-colored GlowSkin Face Wash bottle with elegant modern packaging. The product is placed in a bright luxury bathroom with soft natural morning sunlight.
+
+Scene 1:
+Close-up of the blue GlowSkin Face Wash bottle with water droplets and glowing effects.
+
+Scene 2:
+A young woman with clear skin and a natural smile uses the face wash during her morning skincare routine.
+
+Scene 3:
+Rich, creamy foam gently cleanses the skin. Fresh water splashes create a clean and refreshing feeling.
+
+Scene 4:
+The woman reveals healthy, glowing skin and smiles confidently at the camera.
+
+Text Overlay:
+"GlowSkin Face Wash"
+"Fresh • Clean • Glowing"
+
+Voiceover (clear female voice):
+"Discover the secret to fresh, healthy, glowing skin. GlowSkin Face Wash deeply cleanses, refreshes, and leaves your skin feeling confident every day. GlowSkin Face Wash — your daily glow starts here."
+
+Final CTA:
+"Try GlowSkin Face Wash Today"
+
+Style:
+Premium skincare commercial, ultra-realistic, cinematic lighting, smooth camera movements, luxury beauty advertisement, realistic human expressions, professional product showcase, high-quality 4K, vertical 9:16 format, suitable for Instagram Reels, Facebook Reels, and YouTube Shorts.
 
 
 ## Tools Used
