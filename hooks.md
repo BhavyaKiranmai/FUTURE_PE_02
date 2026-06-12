@@ -1,0 +1,21 @@
+# UGC Hooks
+1. My acne finally started disappearing.
+2. I wish I found this sooner.
+3. Stop wasting money on skincare.
+4. This changed my morning routine.
+5. The best face wash I've tried.
+6. My skin feels amazing now.
+7. Acne sufferers need to see this.
+8. This face wash surprised me.
+9. My confidence is back.
+10. Here's my skincare secret.
+11. Clear skin starts here.
+12. Why is nobody talking about this?
+13. My skin transformation is real.
+14. This fixed my oily skin.
+15. Before buying another cleanser...
+16. The glow is finally here.
+17. My dermatologist would approve this.
+18. Healthy skin doesn't need to be expensive.
+19. This became my daily essential.
+20. Watch what happened in 30 days.
